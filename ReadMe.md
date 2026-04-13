@@ -1,0 +1,7 @@
+- Stardew Valley
+-- Automate
+-- FastAnimations
+-- FishingAssistant2
+-- LookupAnything
+-- VisibleFish
+-- SkullCavernElevator
